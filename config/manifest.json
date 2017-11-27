@@ -22,7 +22,7 @@
     }
   },
   "info": {
-    "publicPath": "http://192.168.3.2:9000/public/",
+    "publicPath": "http://172.18.187.82:9000/public/",
     "buildPath": "public"
   }
 }
